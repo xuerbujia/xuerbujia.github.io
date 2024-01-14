@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>飞雪无情的博客</title>
-    <link>https://www.flysnow.org/</link>
-    <description>Recent content on 飞雪无情的博客</description>
+    <title>Posts on 飞雪无情的博客</title>
+    <link>https://www.flysnow.org/post/</link>
+    <description>Recent content in Posts on 飞雪无情的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 14 Jan 2024 22:08:40 +0800</lastBuildDate>
-    <atom:link href="https://www.flysnow.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.flysnow.org/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Firse Post</title>
       <link>https://www.flysnow.org/post/firse-post/</link>
